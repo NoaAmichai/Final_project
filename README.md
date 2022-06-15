@@ -1,4 +1,4 @@
-## Pandas-Kids-Drawings 
+## Pandas Kids Drawings 
 This data contains children's drawings (each child drew about 22 drawings). <br>
 Each drawing has a CSV file and an image of the drawing that also contains the original drawing that the child was asked to draw. <br>
 <br>
